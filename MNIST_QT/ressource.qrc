@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>model.onnx</file>
+    </qresource>
+</RCC>
